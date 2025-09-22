@@ -2,7 +2,7 @@ title: Soviet Call for Peace
 subtitle: The Petrograd Soviet issues a proclamation to the workers of the world.
 new-page: true
 view-if: soviet_call = 0 and (month = 3 and week >= 3)
-on-arrival: soviet_call += 1; sr_resources += 1000000; k_resources += 1000000; m_resources += 1000000; budget += 100000000; 
+on-arrival: soviet_call += 1; sr_resources += 1000000; k_resources += 1000000; m_resources += 1000000; b_resources += 10000000; budget += 100000000; 
 max-visits: 1
 tags: event
 
